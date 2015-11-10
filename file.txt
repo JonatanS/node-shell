@@ -1,0 +1,8 @@
+this is content
+line 2
+line 3
+line 4
+duplicate line1
+duplicate line1
+line 6
+EndEndEnd
